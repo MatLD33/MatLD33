@@ -1,0 +1,30 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    background-color: rgb(175, 171, 49);
+    color: white;
+    font-family: Helvetica;
+}
+
+.name {
+    text-align: center;
+    background-color: rgb(207, 210, 12);
+    padding: 10px;
+}
+
+hr {
+    height: 4px;
+    border-color: black;
+    background-color: black;
+}
+
+.photo {
+    display: block;
+}
