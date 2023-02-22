@@ -19,12 +19,14 @@ h2 {
     padding: 10px;
 }
 
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
 hr {
     height: 4px;
     border-color: black;
     background-color: black;
-}
-
-.photo {
-    display: block;
 }
